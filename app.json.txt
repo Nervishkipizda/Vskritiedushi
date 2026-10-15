@@ -1,0 +1,8 @@
+
+
+{
+  "expo": {
+    "name": "Определение Социотипа",
+    "slug": "opredelenie-sociotipa"
+  }
+}
